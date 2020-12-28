@@ -1,0 +1,57 @@
+#map_page{
+background:#FFF;
+width:640px;
+height:610px;
+margin:38PX 27PX 0 27px;	
+float:left;
+font-family: 'Open Sans', sans-serif;
+	}
+
+#map{
+width:640px; 
+height:400px ; 
+display:inline-block;	
+	
+	}
+
+
+.pak1 , .pak2 , .pak3 , .ind1 , .ind2 , .ind3 , .us1 , .us2 , .us3{
+//background:dimgray;
+//display:inline-block;	
+word-break:break-all;
+width:500px;
+height:280px;
+verticle-align:top;
+position:absolute;
+
+	}
+.pak1 div, .pak2 div , .pak3 div ,.ind1 div, .ind2 div , .ind3 div ,.us1 div, .us2 div , .us3 div{
+display:none;
+background:#09f;
+width: 641px;
+	
+}	
+section strong{
+display:inline-block;	
+position:relative;
+width:25px;
+height:20px;
+	}
+section strong img{
+position:absolute;
+top:3px;	
+	}	
+
+section p{
+display:inline-block;	
+	}	
+
+
+	
+
+
+article div{
+margin-left:90px;	
+display:inline-block;	
+text-align:center;
+	}

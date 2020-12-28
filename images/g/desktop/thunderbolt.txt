@@ -1,0 +1,43 @@
+thunderbolt
+
+g-technology
+<li>Capacity  upto 2TB</li>
+<li>Interface  2xThunderbolt</li>
+<li>HDD 7200RPM </li>
+<li>Transfer Rate  256Mb/s</li>
+<li>Price  $749.95</li>
+
+<tr>
+	<td>Capacity</td> 
+	<td>upto 2TB</td>
+</tr>
+
+
+
+<tr>
+	<td>Interface </td> 
+	<td> 2xThunderbolt</td>
+</tr>
+
+
+
+<tr>
+	<td>HDD</td> 
+	<td> 7200RPM</td>
+</tr>
+
+
+
+<tr>
+	<td>Transfer Rate  </td> 
+	<td>256Mb/s</td>
+</tr>
+
+
+
+<tr>
+	<td>Price </td> 
+	<td> $749.95</td>
+</tr>
+
+

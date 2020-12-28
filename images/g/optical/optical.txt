@@ -1,0 +1,57 @@
+optical
+
+
+
+<li></li>
+ 
+<li></li>
+<li></li>
+<li></li>
+ 
+<li></li>
+</li>
+ 
+<li></li>
+<li>E-Green</li>
+<li>E-Hammer</li>
+
+
+<tr>
+	<td>Access time:</td>
+	<td>DVD: 150ms &nbsp; CD: 150ms </td>
+</tr>
+
+<tr>
+	<td>Interface:</td>
+	<td> SATA</td>
+</tr>
+<tr>
+	<td>Data Buffer: </td>
+	<td>1.5 MB</td>
+</tr>
+<tr>
+	<td>O/S Compatibility:	</td>
+	<td>Windows® 7 &nbsp; Windows® Vista &nbsp; Windows® XP</td>
+</tr>
+<tr>
+	<td>Processor requirement:</td>
+	<td> Pentium 300 MHz or higher or higher</td>
+
+<tr>
+	<td>Memory requirement:  </td>
+	<td>128MB or more is recommended</td>
+</tr>
+
+
+<tr>
+	<td>HDD: </td>
+	<td>10 GB or more</td>
+
+
+<tr>
+	<td>Bundle Software:</td>
+	<td>Nero Essentials</td>
+</tr>
+
+
+

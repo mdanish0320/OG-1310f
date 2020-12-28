@@ -1,0 +1,15 @@
+passport
+
+
+<li>Brand	&nbsp;&nbsp;&nbsp;&nbsp;Western Digital</li>
+<li>Model	&nbsp;&nbsp;&nbsp;&nbsp;WDBLUZ0010BSL</li>
+<li>UPC &nbsp;&nbsp;&nbsp;	718037814285, 718037814346</li>
+
+
+<li>Enclosure &nbsp;&nbsp;&nbsp;&nbsp;	External</li>
+<li>Capacity &nbsp;&nbsp;&nbsp;&nbsp;	1 TB</li>
+<li>Hard Drive Type &nbsp;&nbsp;&nbsp;&nbsp;	Portable</li>
+<li>Interface &nbsp;&nbsp;&nbsp;&nbsp;	USB 3.0</li>
+
+<li>Platform &nbsp;&nbsp;&nbsp;&nbsp;	Mac</li>
+<li>Form Factor &nbsp;&nbsp;&nbsp;&nbsp;	2.5"</li>
